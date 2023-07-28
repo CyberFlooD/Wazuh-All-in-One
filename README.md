@@ -1,4 +1,7 @@
 # Wazuh- All-in-One
+
+![Wazuh](https://wazuh.com/uploads/2022/06/Home.png)
+
 Installation de Wazuh all-in-one sur un serveur Ubuntu 20.04
 
 # Install Ubuntu Server 20.04 LTS 
