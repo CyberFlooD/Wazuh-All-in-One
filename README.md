@@ -36,4 +36,8 @@ Rajouter l'ip du serveur dans la fichier config.yml
     
     bash wazuh-install.sh --wazuh-dashboard dashboard
 
-  https://ip_du_serveur
+Recuperez le mdp d'Admin dans la fenetre CLI    
+
+Acceder au service : https://ip_du_serveur
+
+  
