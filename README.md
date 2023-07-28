@@ -38,6 +38,6 @@ Rajouter l'ip du serveur dans la fichier config.yml
 
 Recuperez le mdp d'Admin dans la fenetre CLI    
 
-Acceder au service : https://ip_du_serveur
+Accedez au service : https://ip_du_serveur
 
   
